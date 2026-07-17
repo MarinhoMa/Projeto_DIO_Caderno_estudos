@@ -51,16 +51,16 @@ git push -u origin main
 
 ```
 
-## 📚 Curadoria de Fontes (Materiais Utilizados)
+## Curadoria de Fontes (Materiais Utilizados)
 
 Para garantir a qualidade e a segurança das informações deste caderno de estudos, foram selecionadas e carregadas no Google NotebookLM as seguintes fontes oficiais e abertas:
 
-1. **[Documentação Oficial do GitHub: Começando com o Git]()**
-   * *Descrição:* O guia oficial e definitivo do GitHub para entender a instalação, configuração e os primeiros comandos da ferramenta.
-2. **[Git - O Guia Prático (No-Chit-Chat)](https://rogerdudler.github.io/git-guide/index.pt_BR.html)**
-   * *Descrição:* Um guia rápido e muito popular na comunidade para iniciantes, ideal para consultas rápidas de comandos sem enrolação.
-3. **[E-book PDF: Pro Git (Livro Oficial de Código Aberto)](https://git-scm.com/book/pt-br/v2)**
-   * *Descrição:* O livro completo e gratuito sobre Git, mantido pela própria comunidade do Git, utilizado para consolidar os conceitos mais profundos e teóricos sobre controle de versão.
+1. **[Turorial básico GitHub: Tutorial basico GitHub](https://github.com/MarinhoMa/Projeto_DIO_Caderno_estudos/blob/main/tutorial_github.pdf)**
+   * *Descrição:* Tutorial basico sobre o GitHub e Git.
+2. **[Documento com dicas sobre dicas no uso do Git e GitHub)](https://github.com/MarinhoMa/Projeto_DIO_Caderno_estudos/blob/main/github-git-cheat-sheet.pdf)**
+   * *Descrição:* Dicas sobre dicas no uso do Git e GitHub.
+3. **[Versionamento GitHub](https://github.com/MarinhoMa/Projeto_DIO_Caderno_estudos/blob/main/Controlando%20Vers%C3%B5es%20com%20Git%20e%20GitHub%20-%20Autor%20(Casa%20do%20C%C3%B3digo).pdf)**
+   * *Descrição:* Documento sobre como realizar o versionamento dentro do GitHub.
 
 ---
 *(Nota: Se você fez o upload de arquivos PDFs próprios que estão salvos no seu computador, lembre-se de colocá-los na pasta `documentos/` do seu repositório para que outras pessoas também possam baixá-los e usá-los no NotebookLM delas!)*
