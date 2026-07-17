@@ -15,7 +15,7 @@ Os objetivos principais com este material e repositório são:
 * **Desenvolver Habilidades de Documentação:** Praticar a escrita de documentações profissionais desde o início, aprendendo a usar a sintaxe Markdown para criar arquivos `README.md` organizados e visualmente atraentes.
 
 
-## 🚀 Como Criar o seu Próprio Repositório no GitHub
+## Como Criar o seu Próprio Repositório no GitHub
 
 Se você é iniciante e quer criar o seu próprio repositório para guardar este caderno de estudos (ou qualquer outro projeto), siga o guia prático abaixo:
 
@@ -114,3 +114,37 @@ Nesta seção estão documentadas as dúvidas que fiz ao NotebookLM e as respost
 > Atualmente, o plano gratuito do GitHub permite a criação de **repositórios públicos e privados ilimitados** para projetos individuais. Os planos pagos são voltados para empresas ou equipes que necessitam de recursos avançados de colaboração e segurança.
 > 
 > *Vale ressaltar que você pode alterar a visibilidade do seu repositório (mudar de público para privado ou vice-versa) a qualquer momento nas configurações (**Settings**) do projeto.*
+
+---
+
+## Miniguia de Estudo
+
+Esta seção consolida o conhecimento essencial adquirido ao longo desta jornada de aprendizado, servindo como uma base sólida para consultas rápidas e revisões eficientes.
+
+### 1. Fundamentos de Git e GitHub O Git funciona como uma "máquina do tempo" para o código, permitindo que desenvolvedores rastreiem o histórico de alterações e trabalhem em equipe sem perder informações
+. O GitHub é uma plataforma online que hospeda esses repositórios, facilitando o compartilhamento de projetos e a colaboração global
+. O fluxo de trabalho padrão envolve inicializar um repositório local, adicionar arquivos à área de stage, realizar commits para gravar as mudanças permanentemente e usar o push para enviar as alterações para o servidor remoto
+.
+### 2. Ferramentas e Processos de Colaboração Para organizar o desenvolvimento, utilizam-se branches, que permitem criar linhas de trabalho independentes para novas funcionalidades ou correções sem afetar o código principal
+. A integração de código entre diferentes desenvolvedores é feita por meio de Pull Requests, Forks e sincronizações como pull e fetch
+. Além da linha de comando tradicional, existem interfaces visuais como o GitHub Desktop, que simplificam o gerenciamento de arquivos e a sincronização com a nuvem para iniciantes
+
+## Glossário / Principais conceitos
+
+### Repository (Repositório): É a "pasta inteligente" do seu projeto. Ela não guarda apenas os arquivos atuais, mas também todo o histórico de alterações que você já fez desde o início da criação do caderno.
+
+### Commit: Funciona como um ponto de salvamento ou um "Save Game" da sua jornada. Cada vez que você faz um commit, você tira uma foto do estado atual dos seus arquivos e deixa registrado o que foi alterado e por quê (a mensagem de commit).
+
+### Branch (Ramificação): É uma linha de desenvolvimento separada. A sua linha principal é a main. Se você quiser testar algo novo sem correr o risco de estragar o que já está funcionando no seu caderno, você cria uma nova branch.
+
+### Push: É a ação de "empurrar" ou enviar. Esse comando pega os commits que você fez localmente no seu computador e faz o upload deles para o servidor na nuvem do GitHub.
+
+### Pull: É a ação inversa do push. Ele "puxa" e traz as atualizações que estão salvas lá no site do GitHub para atualizar a pasta correspondente dentro do seu computador.
+
+### Clone: É o ato de baixar uma cópia exata e completa de um repositório que já existe na internet (no GitHub) para a sua máquina local pela primeira vez.
+
+## Prompt de comando reutilizavel:
+
+### O que eu preciso aprender para utilizar o github para controle de versão?
+
+### Quais os principais Conceitos que preciso aprender para utilzar o GitHub corretamente.
